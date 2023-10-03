@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DNetL/cfproxy.git"
+    "url": "git+https://github.com/jokyo0/cfproxy.git"
   },
   "bugs": {
-    "url": "https://github.com/DNetL/cfproxy/issues"
+    "url": "https://github.com/jokyo0/cfproxy/issues"
   },
-  "homepage": "https://github.com/DNetL/cfproxy#readme",
+  "homepage": "https://github.com/jokyo0/cfproxy#readme",
   "dependencies": {
     "ws": "^8.2.3"
   },
